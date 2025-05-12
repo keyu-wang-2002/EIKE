@@ -8,7 +8,7 @@ https://github.com/NYSDY/geometry-kge
 env.yaml
 
 ## CITATION
-'''
+"""
 @article{:/publisher/Beijing Zhongke Journal Publising Co. Ltd./journal/Data Intelligence/6/4/10.3724/2096-7004.di.2024.0088,
   author = "Keyu Wang,Guilin Qi,Jiaoyan Chen,Yi Huang,Tianxing Wu",
   title = "Embedding Ontologies via Incorporating Extensional and Intensional Knowledge",
@@ -20,4 +20,4 @@ env.yaml
   url = "http://www.sciengine.com/publisher/Beijing Zhongke Journal Publising Co. Ltd./journal/Data Intelligence/6/4/10.3724/2096-7004.di.2024.0088,
   doi = "https://doi.org/10.3724/2096-7004.di.2024.0088"
 }
-'''
+"""
